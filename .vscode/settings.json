@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/c:\\Users\\Vivaan\\Desktop\\Vivaan\\Coding\\latex-basics\\Tutorial1.aux": true,
+        "**/c:\\Users\\Vivaan\\Desktop\\Vivaan\\Coding\\latex-basics\\Tutorial1.log": true,
+        "**/c:\\Users\\Vivaan\\Desktop\\Vivaan\\Coding\\latex-basics\\Tutorial1.gz": true,
+        "**/c:\\Users\\Vivaan\\Desktop\\Vivaan\\Coding\\latex-basics\\Tutorial1.out": true
+    }
+}
